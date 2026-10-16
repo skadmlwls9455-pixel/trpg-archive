@@ -82,3 +82,6 @@ trpg-backup/
 
 I defined what each tool needed to do for my own sessions. The code was built
 with an AI coding assistant, and I did the final UI passes myself.
+
+## Copyright
+Copyright (c) 2026 Katherine Nahm (남의진). All rights reserved. See [LICENSE](LICENSE).
